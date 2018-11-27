@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PrivateSpec_Example' do
+  pod 'PrivateSpec', :path => '../'
+
+  target 'PrivateSpec_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
