@@ -65,6 +65,7 @@
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8B0B550BE919E216B44C4504 /* Pods_PrivateSpec_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PrivateSpec_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		943B8ECFB95A38F34255757A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		C9A9568521AD34DF00D4497D /* 操作流程.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "操作流程.h"; sourceTree = "<group>"; };
 		CCE3B6661CB1EB6D5F00E84C /* PrivateSpec.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PrivateSpec.podspec; path = ../PrivateSpec.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		CDB3873698053D153F631F4F /* Pods-PrivateSpec_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PrivateSpec_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PrivateSpec_Example/Pods-PrivateSpec_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -98,6 +99,7 @@
 		6003F581195388D10070C39A = {
 			isa = PBXGroup;
 			children = (
+				C9A9568521AD34DF00D4497D /* 操作流程.h */,
 				60FF7A9C1954A5C5007DD14C /* Podspec Metadata */,
 				6003F593195388D20070C39A /* Example for PrivateSpec */,
 				6003F5B5195388D20070C39A /* Tests */,

@@ -1,5 +1,5 @@
 PODS:
-  - PrivateSpec (0.1.0)
+  - PrivateSpec (1.0.0)
 
 DEPENDENCIES:
   - PrivateSpec (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  PrivateSpec: 11cb5b12237d15393aa9685fcfa237617d070dd1
+  PrivateSpec: a6d00b89e03e17eab017267ab066e67a254462ef
 
 PODFILE CHECKSUM: 673229750aabe32de0cf4df6eaa00ebdd4642a99
 
