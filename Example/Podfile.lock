@@ -1,0 +1,16 @@
+PODS:
+  - PrivateSpec (0.1.0)
+
+DEPENDENCIES:
+  - PrivateSpec (from `../`)
+
+EXTERNAL SOURCES:
+  PrivateSpec:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PrivateSpec: 11cb5b12237d15393aa9685fcfa237617d070dd1
+
+PODFILE CHECKSUM: 673229750aabe32de0cf4df6eaa00ebdd4642a99
+
+COCOAPODS: 1.5.3
